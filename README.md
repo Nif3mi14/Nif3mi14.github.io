@@ -36,9 +36,3 @@ No Contribution yet.....
 ## Contact
 
 Email: rasakiyinolanifemi@gmail.com, WhatsApp: +234-912-295-0740, Facebook/ Instagram: Kelly King, Twitter: #KELLY.
-
-Acknowledge any resources, libraries, or tools that were helpful in building your portfolio website.
-
-## License
-
-Specify the license under which your portfolio website is released, if applicable.
