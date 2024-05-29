@@ -12,6 +12,7 @@ The purpose behind creating my portfolio website is to expand my brand and to cr
 Key features of my portfolio website. This could include:
 
 - My professional background and skills.
+- My Services
 - My projects, links and source code.
 - Blogs/ Articles, insights, tutorials & thoughts on various topics.
 - Contact information,.
